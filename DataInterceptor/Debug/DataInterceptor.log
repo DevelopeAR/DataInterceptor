@@ -1,0 +1,37 @@
+﻿Build started 19.05.2017 20:55:33.
+     1>Project "D:\MSVSProjects\QT58\DataInterceptor\DataInterceptor\DataInterceptor.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Uic'ing DataInterceptor.ui...
+         Moc'ing DataInterceptor.h...
+         Rcc'ing DataInterceptor.qrc...
+     1>RCC : warning : No resources in 'D:\MSVSProjects\QT58\DataInterceptor\DataInterceptor\DataInterceptor.qrc'.
+         
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.8.0\5.8\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtCore /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtGui /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtSerialPort /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtTest /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtWebSockets /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtWidgets /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtCharts /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtUiTools /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SERIALPORT_LIB /D QT_TESTLIB_LIB /D QT_WEBSOCKETS_LIB /D QT_WIDGETS_LIB /D QT_UITOOLS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CData.cpp CParam.cpp CTransmitter.cpp DataInterceptor.cpp GeneratedFiles\Debug\moc_DataInterceptor.cpp main.cpp "СInterceptor.cpp" "СInterceptorAdapter.cpp"
+         CData.cpp
+         CParam.cpp
+         CTransmitter.cpp
+         DataInterceptor.cpp
+         moc_DataInterceptor.cpp
+         main.cpp
+         СInterceptor.cpp
+         СInterceptorAdapter.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.8.0\5.8\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtCore /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtGui /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtSerialPort /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtTest /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtWebSockets /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtWidgets /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtCharts /IC:\Qt\Qt5.8.0\5.8\msvc2013\include\QtUiTools /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SERIALPORT_LIB /D QT_TESTLIB_LIB /D QT_WEBSOCKETS_LIB /D QT_WIDGETS_LIB /D QT_UITOOLS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_DataInterceptor.cpp
+         qrc_DataInterceptor.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MSVSProjects\QT58\DataInterceptor\Win32\Debug\\DataInterceptor.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.8.0\5.8\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5SerialPortd.lib Qt5Testd.lib Qt5WebSocketsd.lib Qt5Widgetsd.lib Qt5Chartsd.lib Qt5UiToolsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MSVSProjects\QT58\DataInterceptor\Win32\Debug\DataInterceptor.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MSVSProjects\QT58\DataInterceptor\Win32\Debug\DataInterceptor.lib" /MACHINE:X86 /SAFESEH Debug\CData.obj
+         Debug\CParam.obj
+         Debug\CTransmitter.obj
+         Debug\DataInterceptor.obj
+         Debug\moc_DataInterceptor.obj
+         Debug\qrc_DataInterceptor.obj
+         Debug\main.obj
+         "Debug\СInterceptor.obj"
+         "Debug\СInterceptorAdapter.obj"
+         DataInterceptor.vcxproj -> D:\MSVSProjects\QT58\DataInterceptor\Win32\Debug\DataInterceptor.exe
+     1>Done Building Project "D:\MSVSProjects\QT58\DataInterceptor\DataInterceptor\DataInterceptor.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.10
